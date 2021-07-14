@@ -12,5 +12,5 @@ My name is Marcos Douglas, i'm **JS stack student**.
 </a>
 
 ## Contact
-[![Linkedin Badge](https://img.shields.io/badge/-marcosdouglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-douglas-fernandes-atanazio-b74044170/)]
+[![Linkedin Badge](https://img.shields.io/badge/-marcosdouglas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-douglas-fernandes-atanazio/)]
 [![Gmail Badge](https://img.shields.io/badge/-marcosd.atanazio@gmail.com-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:marcosd.atanazio@gmail.com)](mailto:marcosd.atanazio@gmail.com)
