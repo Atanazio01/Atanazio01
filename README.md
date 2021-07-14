@@ -5,7 +5,7 @@ My name is Marcos Douglas, i'm **JS stack student**.
   </div>
 
 <a href="https://github.com/Atanazio01/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atanazio01&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atanazio01&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/Atanazio01/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atanazio01&theme=dracula" />
