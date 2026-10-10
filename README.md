@@ -7,7 +7,7 @@ São Paulo, SP, Brasil
 
 > Mais de **5 anos** de experiência profissional em software e trajetória em programação desde **2015**. Front-end sólido em React/TypeScript e backend com Node.js (Express, NestJS, BFFs), além de APIs em .NET.
 
-Bacharel em **Ciência da Computação** e Tecnólogo em **Sistemas para Internet** (UNINOVE, 2021), com especialização fullstack no **JStack**.
+Bacharel em **Ciência da Computação** e Tecnólogo em **Sistemas para Internet** (UNINOVE, 2021).
 
 ---
 
